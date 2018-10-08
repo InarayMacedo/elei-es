@@ -1,0 +1,10 @@
+.imagem {border-radius: 50%; width: 65%; float: left;}
+
+.votos {float: right; text-align: right;}
+
+.foto{float: left;}
+.candidato{float: left;}
+.informaçoes {float: left;}
+
+div.votos p{color: gray;}
+div.informaçoes p{color: gray;}
