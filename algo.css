@@ -5,6 +5,10 @@
 .foto{float: left;}
 .candidato{float: left;}
 .informaçoes {float: left;}
+.atu {color: gray;}
+.secapu {color: gray;}
 
 div.votos p{color: gray;}
 div.informaçoes p{color: gray;}
+nav.titulo a{text-align: center;}
+nav.pesquisa input{float: right;}
