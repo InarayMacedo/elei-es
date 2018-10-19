@@ -13,3 +13,4 @@ div.informaçoes p{color: gray;}
 .titulo {text-align: center;}
 nav.pesquisa input{float: right;}
 .fora {opacity: 0.5;}
+nav.link h5{float: left;}
